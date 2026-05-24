@@ -41,18 +41,15 @@ The exercises aim to answer questions such as:
 WBS-supervised-ML/
 │
 ├── classification/
-│   ├── baseline modelling
-│   ├── decision tree classification
-│   ├── K-Nearest Neighbours
-│   ├── model selection
-│   ├── classification metrics
-│   └── classification notebooks
+│   └── Titanic_Project/
+│       ├── notebooks
+│       ├── data
+│       └── README.md
 │
 ├── regression/
-│   ├── regression models
-│   ├── regression metrics
-│   ├── feature selection
-│   ├── correlation analysis
-│   └── regression notebooks
+│   └── Diamonds_Project/
+│       ├── notebooks
+│       ├── data
+│       └── README.md
 │
 └── README.md
